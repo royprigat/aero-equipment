@@ -470,7 +470,7 @@ body {
   --------------------------------*/
   #about {
     background: #fff;
-    padding: 80px 0;
+    padding: 100px 0;
   }
   
   #about .about-container .background {
@@ -567,7 +567,7 @@ body {
   #services {
     background: #fff;
     background-size: cover;
-    padding: 80px 0 60px 0;
+    padding: 100px 0 120px 0;
   }
   
   #services .box {
@@ -575,7 +575,7 @@ body {
     margin-bottom: 50px;
     text-align: center;
     border: 1px solid #e6e6e6;
-    height: 200px;
+    height: 300px;
     position: relative;
     background: #fafafa;
   }
