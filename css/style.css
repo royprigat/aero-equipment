@@ -496,12 +496,6 @@ body {
     font-size: 32px;
   }
   
-  @media (max-width: 768px) {
-    #about .about-container .title {
-      padding-top: 15px;
-    }
-  }
-  
   #about .about-container p {
     line-height: 26px;
   }
@@ -551,6 +545,17 @@ body {
     height: 200px;
     margin-top: 60px;
     min-height: 150px;
+  }
+
+  @media (max-width: 768px) {
+    #about .about-container .title {
+      padding-top: 15px;
+    }
+
+    #about {
+      padding-top: 50px;
+      padding-bottom: 70px;
+    }
   }
   
   /* Facts Section
