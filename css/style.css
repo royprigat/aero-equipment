@@ -550,6 +550,7 @@ body {
   #carousel {
     height: 200px;
     margin-top: 60px;
+    min-height: 150px;
   }
   
   /* Facts Section

@@ -153,7 +153,7 @@ jQuery(document).ready(function ($) {
 
     $('.loop').owlCarousel({
         center: true,
-        items: 6,
+        items: 2,
         loop: true,
         margin: 20,
         responsive: {
