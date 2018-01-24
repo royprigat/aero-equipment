@@ -542,9 +542,13 @@ body {
   }
 
   #carousel {
-    height: 200px;
+    height: 230px;
     margin-top: 60px;
     min-height: 150px;
+  }
+
+  #carousel img {
+    height: 230px;
   }
 
   @media (max-width: 768px) {
@@ -555,6 +559,10 @@ body {
     #about {
       padding-top: 50px;
       padding-bottom: 70px;
+    }
+
+    #carousel img {
+      height: 190px;
     }
   }
   
